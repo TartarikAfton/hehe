@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background-color: purple;
+    height: 40vh;
+}
+.container {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
+button {
+    position: absolute;
+    top: 50%;
+    position: fixed;
+    left: 50%;
+    top:50%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+   right: 0;
+    height: 40px;
+  width: 200px;
+  background-color: orange;
+}
+.kısa{
+    text-decoration: none;
+    font-size: 35px;
+}
+a{
+    text-decoration: none;
+}
+.sığmıo{
+    position: absolute;
+    top: 50%;
+    position: fixed;
+    left: 50%;
+    top:50%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+   right: 0;
+    height: 50px;
+  width: 200px;
+  background-color: orange;
+}
+.vidyoaltı{
+    position: absolute;
+    top: 60%;
+    position: fixed;
+    left: 50%;
+    top:60%;
+    margin: auto;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    bottom: 0;
+   right: 0;
+    height: 50px;
+  width: 200px;
+  background-color: orange;
+}
+
+
